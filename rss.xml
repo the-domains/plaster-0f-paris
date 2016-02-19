@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[plaster 0f paris]]></title>
         <description><![CDATA[plaster 0f paris]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/plaster-0f-paris/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 19 Feb 2016 00:06:05 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 19 Feb 2016 00:26:27 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/plaster-0f-paris/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/835c021c-0237-4143-853e-a0e4363f3867.jpg">]]></description>
-            <link>undefined385f7a16-4e51-41dc-8268-c8c10aafa45b/index.html</link>
+            <link>https://thegrid.ai/plaster-0f-paris/385f7a16-4e51-41dc-8268-c8c10aafa45b/index.html</link>
             <guid isPermaLink="false">385f7a16-4e51-41dc-8268-c8c10aafa45b</guid>
-            <pubDate>Fri, 19 Feb 2016 00:05:56 GMT</pubDate>
+            <pubDate>Fri, 19 Feb 2016 00:25:06 GMT</pubDate>
         </item>
     </channel>
 </rss>
